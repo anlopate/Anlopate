@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana López Atero</h1>
+<h1 align="center" text-color="blue" >Hi 👋, I'm Ana López Atero</h1>
 <h3 align="center">Wed developer student</h3>
 
 - 🌱 I’m currently learning **DAW.**
