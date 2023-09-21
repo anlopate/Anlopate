@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana López Atero</h1>
-<h3 align="center">Developer's student</h3>
+<h3 align="center">Wed developer's student</h3>
 
 - 🌱 I’m currently learning **DAW.**
 
